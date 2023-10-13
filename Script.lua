@@ -1,1 +1,1 @@
-local nothing = nil
+print("Debug")
